@@ -221,6 +221,7 @@ exclude:
   - _posts/2023-*.md
   - _posts/2024-*.md
   - _posts/2025-*.md
+  - _news/announcement_2026-newgrad.md # temporary hide
 keep_files:
   - CNAME
   - .nojekyll
