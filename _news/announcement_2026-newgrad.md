@@ -2,7 +2,7 @@
 layout: post
 title: I'm joining Google (Youtube)
 date: 2026-05-26
-inline: false
+inline: true
 related_posts: false
 toc:
   sidebar: left
