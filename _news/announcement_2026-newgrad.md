@@ -8,7 +8,7 @@ toc:
   sidebar: left
 ---
 
-> **Disclaimer:** This post is for educational purposes. All compensation numbers are based on publicly available data (e.g., Levels.fyi, Glassdoor) and may not reflect my actual offers.
+<!-- > **Disclaimer:** This post is for educational purposes. All compensation numbers are based on publicly available data (e.g., Levels.fyi, Glassdoor) and may not reflect my actual offers.
 
 I carefully evaluated both opportunities across compensation, career growth, and visa considerations:
 1. Adobe as Machine Learning Engineer (level P20[^companny-level]) working on AI Agent, chatbot,
@@ -117,4 +117,4 @@ I chose Google (YouTube Recommendations) for 3 main reasons:
 - Visa constraints (H1B wage level) can influence company choice
 - Team and project alignment outweigh compensation differences
 
----
+--- -->
